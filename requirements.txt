@@ -1,5 +1,6 @@
 asgiref==3.5.2
 Django==4.1
+whitenoise==6.2.0
 dj-database-url==1.0.0
 django-admin==2.0.1
 django-excel-base==1.0.4
